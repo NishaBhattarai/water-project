@@ -1,0 +1,230 @@
+body{
+	overflow-x: hidden;
+}
+
+/*CUSTOMER_SERVICE*/
+.customer_service_body{
+	margin-top: 40px;
+	padding-bottom: 100px;
+}
+.customer_service_body h4 a{
+	font-weight: 700;
+    color: #00517f;
+    text-decoration: none
+}
+.customer_service_body h4 a:hover{
+	text-decoration: underline;
+}
+.customer_service_body ul li .active{
+	color: #000000;
+	font-weight: 700;
+}
+.black_li{
+	color: black;
+	line-height: 2em;
+	text-decoration: underline;
+}
+.black_li:hover{
+	color: black;
+	text-decoration: none;
+}
+.blue_li{
+	color:  #107db5;
+	line-height: 2em;
+	text-decoration: underline;
+}
+.blue_li:hover{
+	color:  #107db5;
+	text-decoration: none;
+}
+.customer_service_body h1{
+	margin-top: 0px;
+    margin-bottom: 10px;
+    color: #003d60;
+    font-weight: 700;
+}
+.customer_service_body li{
+	line-height: 2em;
+}
+.customer_service_body .col-sm-8
+{
+	border-left: 1px solid #dfdfdf;
+	padding-left: 40px;
+	height: 500px;
+}
+
+/*Contact Section*/
+.body1
+{
+	background-color: #008db8;
+	padding: 20px;	
+}
+
+
+
+/*BILLING SECTION*/
+.billing_body{
+	margin-top: 40px;
+	padding-bottom: 70px;
+}
+.billing_body h4 a{
+	font-weight: 700;
+    color: #00517f;
+    text-decoration: none
+}
+.billing_body h4 a:hover{
+	text-decoration: underline;
+}
+.billing_body ul li .active{
+	color: #000000;
+	font-weight: 700;
+}
+.billing_body h2{
+	font-weight: 500;
+    font-size: 32px;
+    color: #555555;
+}
+.billing_body h3{
+	color: #003d60;
+	font-weight: 700;
+}
+.billing_body .col-sm-8 p > a{
+	text-decoration: underline;
+}
+.billing_body .col-sm-8 p > a:hover{
+	text-decoration: none;
+}
+.billing_body h1{
+	margin-top: 0px;
+    margin-bottom: 10px;
+    color: #003d60;
+    font-weight: 700;
+}
+.billing_body li{
+	line-height: 2em;
+}
+.billing_body .col-sm-8
+{
+	border-left: 1px solid #dfdfdf;
+	padding-left: 40px;
+}
+
+
+
+/*WATER QUALITY REPORTS*/
+.zip_code{
+	
+	display: inline-block;
+}
+.zip_code .btn-primary{
+	text-decoration: none;
+    margin: 0 0 0 10px;
+    padding: 0 30px;
+    height: 50px;
+    line-height: 50px;
+    background: #003d60;
+    color: #ffffff;
+    display: inline-block;
+    border-radius: 25px;
+    border: none;
+    text-align: center;
+}
+.form-group1{
+	margin: 24px 0 0 10px;
+    width: 200px;
+}
+.form-group1 label {
+    display: block;
+    z-index: 2;
+    top: 6px;
+    left: 10px;
+    margin-bottom: 5px;
+    color: #707070;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
+/*SYSTEM UPDATES*/
+.billing_body ul li .fa{
+	font-size: 5px;
+	margin-right: 5px;
+}
+
+
+/*NEWS*/
+.news_panel{
+	border: 1px solid #dfdfdf;
+	padding: 20px;
+	margin-bottom: 30px;
+}
+.date{
+	display: block;
+    margin: 20px 0 10px;
+    color: #555555;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.news_panel p{
+	margin-bottom: 10px;
+    color: #222222;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+/*AMERICAN WATER RESOURCES*/
+.wr_panel .panel{
+	height: 500px;
+}
+.wr_panel p1{
+	font-size: 18px;
+}
+.form-group2 label{
+	font-weight: bold;
+    line-height: 1.428571429;
+       font-size: 15px;
+}
+.form-group2 select{
+	color: black;
+    height: 50px;
+    margin-bottom: 15px;
+    width: 150px
+}
+.wr_panel p2{
+	font-size: 18px;
+	font-weight: bold;
+}
+.hpp_text p a{
+	color: #107db5;
+    text-decoration: none;
+    font-size: 13px;
+}
+.hpp_text p a:hover{
+	text-decoration: underline;
+}
+.hpp_text2 p a{
+	color: #107db5;
+    text-decoration: underline;
+    font-size: 13px;
+}
+.hpp_text2 p a:hover{
+	text-decoration: none;
+}
+.inputwrap .btn-default:hover{
+	color: #003d60;
+    background-color: #00BFFF;
+}
+
+
+
+
+
+
+
+
+
+
